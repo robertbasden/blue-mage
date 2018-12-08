@@ -1,0 +1,7 @@
+client/dist/scripts/main.js
+client/elm-stuff
+node_modules
+test-images
+tmp-uploads/*
+uploads/*
+package-lock.json
